@@ -168,7 +168,7 @@ As per rigorous scientific evaluation standards, the final test set (1,000 event
 Launch the real-time triage console locally:
 ```bash
 # 1. Clone repository & install dependencies
-git clone https://github.com/your-username/DriftGuard-EDR.git
+git clone https://github.com/georgebotrs37-svg/DriftGuard-EDR
 cd DriftGuard-EDR
 pip install -r requirements.txt
 
@@ -202,3 +202,7 @@ Access at `http://localhost:8501` to test simulated presets:
 > Third, **drift governance**: When I stress-tested the frozen model on a challenge cohort with developer workloads and living-off-the-land techniques, precision dropped by 69% and false alarms exploded. Using Kolmogorov-Smirnov tests and permutation importance, I proved why models decay when enterprise software stacks evolve.
 >
 > Finally, I packaged the model into a live Streamlit app that provides security analysts with real-time attack probabilities, top risk indicators, and automated containment actions."*
+
+Author
+
+George Botrs Azer Junior SOC Analyst | SIEM, Log Analysis, Threat Detection
